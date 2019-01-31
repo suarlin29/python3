@@ -18,4 +18,4 @@ elif cambio == 2:
     resultado2 = quetz / dolar
     print ("el cambio de dolar {}".format(resultado2))
 else:
-       print(" si no es ninguno de los dos datos no valido")
+       print(" no valido solo 1 y 2 correcto")
